@@ -1,0 +1,3 @@
+this is file 1.
+
+learning the basic git commands.
